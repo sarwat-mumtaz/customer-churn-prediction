@@ -1,17 +1,9 @@
 # 📊 Customer Churn Prediction System
 
 A machine learning-powered web application to predict customer churn for telecom companies. Built with Python, Scikit-learn, and Streamlit.
-
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0+-orange.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-
 ## 🎯 Project Overview
 
 Customer churn prediction is crucial for telecom companies to identify customers likely to leave and take proactive retention measures. This project uses machine learning to predict churn based on customer demographics, service usage, and billing information.
-
-**Live Demo:** [Link to your Streamlit app if deployed]
 
 ## ✨ Features
 
@@ -22,7 +14,6 @@ Customer churn prediction is crucial for telecom companies to identify customers
 - 🤖 Multiple ML algorithms comparison
 - 💾 Trained model ready for deployment
 
-## 🚀 Quick Start
 
 ### Prerequisites
 
@@ -202,7 +193,3 @@ imbalanced-learn==0.11.0
 
 
 ---
-
-⭐ **If you found this project helpful, please give it a star!** ⭐
-
-Made with ❤️ and ☕
